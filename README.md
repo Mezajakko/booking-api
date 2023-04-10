@@ -25,7 +25,8 @@ This API uses a MySQL database for data storage. To configure the database, edit
 
 1. Clone the repository: `git clone https://github.com/your-username/booking-api.git`
 2. Navigate to the project directory: `cd booking-api`
-3. Build the project: `./mvnw clean install` (for mac users)
+3. Add the Database Configuration mentioned above.
+4. Build the project: `./mvnw clean install` (for mac users)
 
 ### Running the API
 
